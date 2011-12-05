@@ -11,7 +11,7 @@ package
 		{
 			trace("Main loaded");
 			_map = new Map();
-			addChild(_map);
+			addChild(_map); 
 		}
 	}
 }
